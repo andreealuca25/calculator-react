@@ -1,0 +1,20 @@
+.key {
+  box-shadow: inset -1px 2px 0px 0px #3dc21b;
+  background: linear-gradient(to bottom, #44c767 5%, #5cbf2a 100%);
+  background-color: #44c767;
+  border-radius: 28px;
+  border: 1px solid #21ad2f;
+  display: inline-block;
+  cursor: pointer;
+  color: #000000;
+  font-family: Georgia;
+  font-size: 40px;
+  padding: 25px 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.key:hover {
+  background: linear-gradient(to bottom, #5cbf2a 5%, #44c767 100%);
+  background-color: #5cbf2a;
+}

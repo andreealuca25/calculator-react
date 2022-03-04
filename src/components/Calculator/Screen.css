@@ -1,0 +1,9 @@
+#screen {
+  display: flex;
+  background-color: #dbffe4;
+  height: 100px;
+  border-radius: 15px;
+  border-style: solid;
+  border-width: 5px;
+  font-size: 50px;
+}
